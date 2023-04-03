@@ -61,6 +61,7 @@
     <Compile Include="Exceptions\ISBN_NumberLengthException.cs" />
     <Compile Include="Exceptions\ISBN_NumberFormatException.cs" />
     <Compile Include="Konyv.cs" />
+    <Compile Include="KonyvesPolc.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
