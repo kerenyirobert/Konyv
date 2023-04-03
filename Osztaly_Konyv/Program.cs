@@ -61,13 +61,14 @@ namespace Osztaly_Konyv
             Console.WriteLine(konyvesPolc1.konyvekSzama);
             Console.WriteLine(konyvesPolc1.konyvekSzamaFuggveny());
             //Konyv osztályba + leltári szám pontosan 11 karakter
-            //minden mezőt ellenörző adatbevitelt elkésziteni
+            //minden mezőt ellenörző adatbevitelel elkésziteni
             //Szerző minimum 6 karakter
             //Mű cime minimum 1 karakter
             //Kiadás éve -10000 -- 2023 akt évig
             //nyelv nem lehet üres
             //enci - true/false
             //eBook i/n
+            //Minden hibát saját exceptionnal megoldani!!!!
             //Konyvespolc osztályban Szótárat létrehozni
             //A szótár kulcsa a könyv leltári száma
             //A szótár értéke a könyvnek a listában szereplő indexe
